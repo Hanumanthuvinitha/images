@@ -1,6 +1,15 @@
 [
-  "DEPT1.jpg",
-  "DEPT2.jpg",
-  "DEPT3.jpg"
+  {
+    "name": "DEPT1.jpg",
+    "time": "2025-04-30 10:15"
+  },
+  {
+    "name": "DEPT2.jpg",
+    "time": "2025-04-30 10:18"
+  },
+  {
+    "name": "DEPT3.jpg",
+    "time": "2025-04-30 10:21"
+  }
 ]
 
